@@ -3,7 +3,7 @@ layout: templates
 author: gireesh kumar
 ---
 
-[Time and distance](topics/time_distance.md)
+[Planet and Stars](topics/planet_stars.md)
 
 This page is created by {{page.author}}. 
 
