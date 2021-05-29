@@ -11,3 +11,4 @@ A Red Cross worker who was filmed cradling an African migrant says she's receivi
 Luna Reyes, 20, said she had to set her social media accounts to private after a torrent of racist and sexist abuse. 
 
 Reyes was filmed embracing an exhausted migrant who swam from Morocco to Ceuta this week.
+This page is created by {page.author}. 
