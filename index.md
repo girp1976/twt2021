@@ -1,4 +1,5 @@
 ---
+layout:templates
 author: gireesh kumar
 ---
 
