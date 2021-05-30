@@ -10,6 +10,6 @@ This page is created by {{page.author}}.
 # This is a heading
 Some text
 
-[click here](#this is heading)
+[click here](#this-is-a-heading)
 
 
